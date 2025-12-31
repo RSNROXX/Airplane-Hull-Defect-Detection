@@ -1,0 +1,16 @@
+# Ignore Data (Too large for GitHub)
+data/
+
+# Ignore Large Models (Users should retrain them)
+saved_models/
+
+# Ignore Python Cache
+__pycache__/
+*.pyc
+
+# Ignore VS Code settings
+.vscode/
+
+# Keep the source code and visualizations!
+!src/
+!visualizations/
