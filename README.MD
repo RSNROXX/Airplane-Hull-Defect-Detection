@@ -43,9 +43,9 @@ python predict.py
 
 
 ## 📈 Results
-    - Visualizations: Training accuracy and loss graphs are automatically saved to the visualizations/ folder.
+- Visualizations: Training accuracy and loss graphs are automatically saved to the visualizations/ folder.
 
-    - Performance: In testing, the Custom CNN demonstrated superior performance on texture-based defect recognition compared to the frozen VGG16 baseline.
+- Performance: In testing, the Custom CNN demonstrated superior performance on texture-based defect recognition compared to the frozen VGG16 baseline.
 
 ## 👤 Author
 [Rishikesh Naware](https://www.linkedin.com/in/rishikesh-naware-9a18ab1a8/)
