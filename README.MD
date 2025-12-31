@@ -41,6 +41,13 @@ python predict.py
 
 ## 📊 Pipeline Modules
 
+| Script | Function |
+| :--- | :--- |
+| `src/model_defs.py` | Contains the architecture for the Custom CNN and VGG16. |
+| `src/dataloader.py` | Handles image preprocessing and batch loading. |
+| `train_custom.py` | Trains the custom architecture from scratch. |
+| `compare.py` | Evaluates both models and saves the best one as `best_model.h5`. |
+| `auto_test.py` | Runs a sanity check (Quality Assurance) on the saved model. |
 
 ## 📈 Results
 - Visualizations: Training accuracy and loss graphs are automatically saved to the visualizations/ folder.
