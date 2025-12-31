@@ -48,4 +48,4 @@ python predict.py
     - Performance: In testing, the Custom CNN demonstrated superior performance on texture-based defect recognition compared to the frozen VGG16 baseline.
 
 ## 👤 Author
-(Rishikesh Naware)[https://www.linkedin.com/in/rishikesh-naware-9a18ab1a8/]
+[Rishikesh Naware](https://www.linkedin.com/in/rishikesh-naware-9a18ab1a8/)
